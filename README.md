@@ -4,10 +4,13 @@ A toy raytracer that produces a scene composed of four coloured spheres placed
 on a blank surface. The recursive ray tracing algorithm supports multiple
 lights, reflections and shadows.
 
+- Netpbm Portable PixMap (P3) image format
 - Blinn-Phong shading
 - Materials with diffuse, specular and reflection parameters
 - Supersampling anti-aliasing
 - Gamma correction
+
+![Scene](https://github.com/randomgen/raytracer-c/releases/download/v0.0.1/image.png)
 
 # Instructions
 
